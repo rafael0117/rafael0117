@@ -1,74 +1,111 @@
-<!-- Encabezado principal de presentación -->
-<h1 align="center">👋 ¡Hola! Soy Rafael</h1>
+<h1 align="center">Hola 👋, soy Rafael Robinho Capristano Mamani</h1>
 
-<!-- Gif animado de desarrollo -->
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-🌱 Actualmente estoy aprendiendo **Desarrollo Web Full-Stack**  
-💬 Me apasiona programar, aprender nuevas tecnologías y construir soluciones útiles.
-
----
-
-<!-- Sección: Tecnologías y herramientas -->
-<h3 align="left">🧠 Lenguajes de Programación:</h3>
-<p align="left">
-  <!-- Lenguajes -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">🛠️ Herramientas y Frameworks:</h3>
-<p align="left">
-  <!-- Herramientas -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<p align="center">
+  📍 Lima, Perú · 📧 mamanirafael324@gmail.com · 📱 +51 912990332
 </p>
 
 ---
 
-<!-- Sección estadísticas GitHub -->
-<h3>📊 Estadísticas de GitHub</h3>
+## 🧑‍💻 Perfil Profesional
 
-<img align="right" alt="Animated Dev" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+Estudiante de **Computación e Informática** en Cibertec con enfoque en **Desarrollo Backend**.
 
-<!-- Lenguajes más usados -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+Tengo experiencia práctica construyendo aplicaciones empresariales utilizando:
 
-<br><br><br><br><br><br><br>
+- Java con **Spring Boot**
+- C# con **.NET y Entity Framework**
+- Angular para el frontend
 
-<!-- Stats generales -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+Domino:
 
-<br><br><br><br><br><br><br><br><br><br>
+- Desarrollo de **API REST**
+- Manejo de bases de datos **MySQL** y **SQL Server**
+- Generación de reportes en **PDF** y **Excel**
 
-<!-- Racha de contribuciones -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
-
-<br><br><br><br><br><br><br><br><br><br>
+Me caracterizo por mi rapidez para aprender, trabajo en equipo y buenas prácticas de programación.
 
 ---
 
-<!-- Contacto en redes sociales -->
-<h3 align="left">📬 Conecta conmigo:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-  <a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-  <a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+## 🛠️ Habilidades Técnicas
+
+### 💻 Lenguajes de Programación
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🚀 Frameworks y Librerías
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-%2342B983.svg?&style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SweetAlert-FF4081?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
+
+### 🧰 Herramientas y Otras Tecnologías
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-<!-- Contador de vistas del perfil -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+## 💼 Proyectos Destacados
 
-<!-- Footer -->
-<p align="center">🛠️ Última edición: 26/06/2025</p>
+### 🔹 Sistema de Gestión de Almacén *(Spring Boot + Angular)*
+- Control de productos, categorías y proveedores
+- Reportes automáticos (PDF y Excel)
+- API REST con autenticación (Spring Security)
+- Base de datos: MySQL
+
+### 🔹 Sistema de Venta de Pasajes *(C# + Entity Framework)*
+- Registro de buses, destinos y emisión de boletos
+- Reportes PDF por cliente
+- Control de stock por asiento
+- Base de datos: SQL Server
+
+### 🔹 Sistema de Citas para Consultorio Médico *(Spring Boot)*
+- Módulo de doctores, pacientes y citas
+- Validaciones de negocio
+- Interfaces con Material UI
+
+---
+
+## 🎓 Formación Académica
+
+**Cibertec – Instituto Superior Tecnológico Privado**  
+📍 Independencia, Lima  
+Carrera: Computación e Informática  
+📅 2023 - Actualidad *(Estudiante)*
+
+---
+
+## 🌍 Idiomas
+- Español: Nativo  
+- Inglés Técnico: Intermedio *(documentación técnica y recursos online)*
+
+---
+
+## 🎯 Objetivo Profesional
+
+Incorporarme a una empresa tecnológica donde pueda aplicar mis conocimientos como **Desarrollador Backend**, contribuir a proyectos reales y continuar desarrollando mis habilidades técnicas y profesionales.
+
+---
+
+## 🧠 Frase que me representa
+
+> "La lógica y el código bien escrito son herramientas que transforman ideas en soluciones reales."
