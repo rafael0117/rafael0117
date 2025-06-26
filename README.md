@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Rafael Robinho Capristano Mamani</h1>
+<h1 align="center">Hola 👋, soy Rafael Capristano</h1>
 
 <p align="center">
   📍 Lima, Perú · 📧 mamanirafael324@gmail.com · 📱 +51 912990332
