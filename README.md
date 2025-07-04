@@ -95,8 +95,8 @@ Carrera: Computación e Informática
 ---
 
 ## 🌍 Idiomas
-- Español: Nativo  
-- Inglés Técnico: Intermedio *(documentación técnica y recursos online)*
+- Español: Nativo
+- Ingles: Basico(Documentación)
 
 ---
 
