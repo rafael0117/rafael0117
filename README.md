@@ -96,7 +96,7 @@ Carrera: Computación e Informática
 
 ## 🌍 Idiomas
 - Español: Nativo
-- Ingles: Basico(Documentación)
+
 
 ---
 📊 GitHub Stats
