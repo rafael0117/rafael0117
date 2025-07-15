@@ -6,7 +6,6 @@
 
 ---
 
-## 🧑‍💻 Perfil Profesional
 
 Estudiante de **Computación e Informática** en Cibertec con enfoque en **Desarrollo Backend**.
 
