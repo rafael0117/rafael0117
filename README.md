@@ -66,8 +66,8 @@ Me caracterizo por mi rapidez para aprender, trabajo en equipo y buenas práctic
 
 ## 💼 Proyectos Destacados
 
-### 🔹 Sistema de Gestión de Almacén *(Spring Boot + Angular)*
-- Control de productos, categorías y proveedores
+### 🔹 Sistema de Gestión de Buses *(Spring Boot + Angular)*
+- Control de viajes, destinos y buses
 - Reportes automáticos (PDF y Excel)
 - API REST con autenticación (Spring Security)
 - Base de datos: MySQL
@@ -78,19 +78,13 @@ Me caracterizo por mi rapidez para aprender, trabajo en equipo y buenas práctic
 - Control de stock por asiento
 - Base de datos: SQL Server
 
-### 🔹 Sistema de Citas para Consultorio Médico *(Spring Boot)*
-- Módulo de doctores, pacientes y citas
-- Validaciones de negocio
-- Interfaces con Material UI
-
----
 
 ## 🎓 Formación Académica
 
 **Cibertec – Instituto Superior Tecnológico Privado**  
 📍 Independencia, Lima  
 Carrera: Computación e Informática  
-📅 2023 - Actualidad *(Estudiante)*
+📅 2025 - Actualidad *(6 ciclo)*
 
 ---
 
